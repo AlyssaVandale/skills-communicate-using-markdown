@@ -4,3 +4,5 @@
 ### This one is eevvveeennn bigger
 ## Okay, this is getting out of control
 # Alright, that's enough!
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
